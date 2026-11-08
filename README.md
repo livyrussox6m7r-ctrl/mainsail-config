@@ -1,0 +1,2 @@
+# mainsail-config
+ripgrep wrap
